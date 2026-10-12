@@ -1,2 +1,2 @@
-# HealthCare-Analysis-Dashboard
-Power BI Dashboard Project for Health care Analysis
+# Power-BI-Project
+Power BI Dashboard Project 
